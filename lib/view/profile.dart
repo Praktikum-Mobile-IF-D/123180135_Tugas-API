@@ -113,7 +113,7 @@ class _HalamanProfilAbhyState extends State<HalamanProfilAbhy> {
                     ListTile(
                       leading: Icon(Icons.school),
                       title: Text('Kelas'),
-                      subtitle: Text('Teknologi Dan Pemrograman Mobile IF-A'),
+                      subtitle: Text('Praktikum Teknologi Dan Pemrograman Mobile IF-D'),
                     ),
                     Divider(),
                     ListTile(
